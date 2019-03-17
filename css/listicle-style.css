@@ -25,7 +25,25 @@
 
 .circle
 {
-    background-image: url("../images/vrk.png");
+    background-image: url(../images/vrk.png);
     width: 100px;
+    height: 100px;
+    border-radius: 100% ;
+    margin: auto;
+    border: 1px  solid  white ;
+    position: relative;
+    top: -50px;
+}
+
+.auther
+{
+    font-family: "Source Sans Pro", sans-serif ;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.update
+{
 
 }
